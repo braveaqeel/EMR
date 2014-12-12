@@ -87,7 +87,7 @@
 		
 			<div>
 				<div class="menu" style="margin-left: 10%; margin-right: 10%">
-					<a class="ferozi" href="#">Register User</a>
+					<a class="ferozi" href="register_user">Register User</a>
 					<a class="green" href="#">Edit User</a>
 					<a class="pink" href="#">View User</a>
 					<a class="purple" href="#">Reserve Appointment</a>

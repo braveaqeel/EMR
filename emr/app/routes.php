@@ -34,4 +34,6 @@ Route::get('/accountant_home', 'HomeController@showAccountant_home');
 
 Route::get('/admin_home', 'HomeController@showAdmin_home');
 
+Route::get('/register_user', 'HomeController@showUserRegistrationForm');
+
 Route::get('/index', 'HomeController@showIndex');
